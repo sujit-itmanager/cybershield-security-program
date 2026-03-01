@@ -1,5 +1,10 @@
 🛡 CyberShield – Enterprise Cybersecurity Governance Program
-
+![ISO 27001 Aligned](https://img.shields.io/badge/ISO%2027001-Aligned-blue)
+![CISM Framework](https://img.shields.io/badge/CISM-Risk%20Governance-green)
+![ISMS Project](https://img.shields.io/badge/ISMS-Implementation-orange)
+![Cybersecurity Governance](https://img.shields.io/badge/Cybersecurity-Governance-purple)
+![Status](https://img.shields.io/badge/Status-Portfolio%20Project-success)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow)
 📌 Overview
 ## 🏗 CyberShield Architecture
 
