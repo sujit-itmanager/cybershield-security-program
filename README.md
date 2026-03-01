@@ -1,6 +1,11 @@
 🛡 CyberShield – Enterprise Cybersecurity Governance Program
 
 📌 Overview
+## 🏗 CyberShield Architecture
+
+The CyberShield program follows an ISO 27001–aligned Information Security Management System (ISMS) model integrating governance, risk management, security controls, operational resilience, and compliance assurance.
+
+![CyberShield Architecture](cybershield-architecture.png)
 
 CyberShield is a structured, end-to-end cybersecurity governance and risk management program designed for a simulated mid-sized enterprise (SkySecure Pvt Ltd).
 
