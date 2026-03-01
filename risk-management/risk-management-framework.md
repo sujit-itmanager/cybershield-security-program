@@ -71,13 +71,14 @@ Risk Score = Impact × Likelihood
 Impact and likelihood are rated on a scale of 1–5.
 
 6. Risk Rating Criteria
+   
 6.1 Impact Scale
 Rating	Description
-1	Negligible
-2	Minor
-3	Moderate
-4	Major
-5	Critical
+ 1	    Negligible
+ 2	    Minor
+ 3	    Moderate
+ 4	    Major
+ 5	    Critical
 
 Impact considers:
 
@@ -90,18 +91,20 @@ Reputational damage
 Operational disruption
 
 6.2 Likelihood Scale
-Rating	Description
-1	Rare
-2	Unlikely
-3	Possible
-4	Likely
-5	Almost Certain
+Rating	    Description
+ 1	        Rare
+ 2	        Unlikely
+ 3	        Possible
+ 4	        Likely
+ 5	        Almost Certain
+
 6.3 Risk Levels
-Score	Level	Action Required
-1–5	Low	Monitor
-6–10	Medium	Mitigate
-11–15	High	Immediate Treatment
-16–25	Critical	Executive Escalation
+Score	    Level	     Action Required
+1–5	       Low	     Monitor
+6–10	     Medium	   Mitigate
+11–15	     High	     Immediate Treatment
+16–25	     Critical	 Executive Escalation
+
 7. Risk Treatment Options
 
 SkySecure adopts one of the following strategies:
