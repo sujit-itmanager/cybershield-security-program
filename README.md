@@ -96,3 +96,9 @@ Risk-Based Security Management
 
 Sujit Kumar
 Cybersecurity & IT Governance Professional
+
+## Disclaimer
+
+SkySecure Pvt Ltd is a fictional organization created for educational and portfolio purposes as part of the CyberShield cybersecurity governance project.
+
+This repository does not represent a real company, system, or security environment.
